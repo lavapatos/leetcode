@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lavapatos/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Array
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/lavapatos/leetcode/tree/master/2048-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/lavapatos/leetcode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->

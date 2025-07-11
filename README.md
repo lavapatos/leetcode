@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lavapatos/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lavapatos/leetcode/tree/master/0015-3sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lavapatos/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/lavapatos/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3194-find-words-containing-character](https://github.com/lavapatos/leetcode/tree/master/3194-find-words-containing-character) |
@@ -38,8 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lavapatos/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/lavapatos/leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lavapatos/leetcode/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/lavapatos/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

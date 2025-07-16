@@ -12,4 +12,4 @@ class Solution(object):
                 nCount += 1
             if c in vowels:
                 vCount += 1
-        return vCount and len(word) > vCount + nCount
+        return (vCount and len(word) > vCount + nCount) == True

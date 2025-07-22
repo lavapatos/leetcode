@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lavapatos/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/lavapatos/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
+| [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lavapatos/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/lavapatos/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3194-find-words-containing-character](https://github.com/lavapatos/leetcode/tree/master/3194-find-words-containing-character) |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->

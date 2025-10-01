@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/lavapatos/leetcode/tree/master/1642-water-bottles) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lavapatos/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lavapatos/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/lavapatos/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lavapatos/leetcode/tree/master/0053-maximum-subarray) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

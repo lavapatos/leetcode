@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/lavapatos/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lavapatos/leetcode/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/lavapatos/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lavapatos/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/lavapatos/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lavapatos/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/lavapatos/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/lavapatos/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

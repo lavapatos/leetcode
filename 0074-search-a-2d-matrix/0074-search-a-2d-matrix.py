@@ -5,7 +5,7 @@ class Solution(object):
         while (l <= r):
             mid = (l + r)/2
             row = mid/n
-            col = (mid + m) % m
+            col = (mid + n) % n
             midTerm = matrix[row][col]
 
             if midTerm == target:

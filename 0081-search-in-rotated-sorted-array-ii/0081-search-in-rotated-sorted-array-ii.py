@@ -9,15 +9,14 @@ class Solution(object):
             if nums[l] == nums[m] == nums[r]:
                 l += 1
                 r -= 1
-            if l  >= len(nums) or r < 0:
-                break
+                continue
             if nums[l] <= nums[m]:
-                if nums[l] <= target < nums[m]:
+                if nums[l] <= target <= nums[m]:
                     r = m - 1
                 else:
                     l = m + 1
             else:
-                if nums[m] < target <= nums[r]:
+                if nums[m] <= target <= nums[r]:
                     l = m + 1
                 else:
                     r = m - 1

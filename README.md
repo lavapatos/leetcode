@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lavapatos/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0485-max-consecutive-ones](https://github.com/lavapatos/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/lavapatos/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1441-build-an-array-with-stack-operations](https://github.com/lavapatos/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lavapatos/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/lavapatos/leetcode/tree/master/1929-concatenation-of-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/lavapatos/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/lavapatos/leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/lavapatos/leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/lavapatos/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
+| [1441-build-an-array-with-stack-operations](https://github.com/lavapatos/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
 |  |
 | ------- |

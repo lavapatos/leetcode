@@ -1,12 +1,11 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        if (nums.size() == 1) {return false;}
-        sort(nums.begin(), nums.end());
-        int quieto = 0, compara = 1;
-        while (compara < nums.size()) {
-            if (nums[quieto++] == nums[compara++]) {return true;}
+        set <int> check;
+        for (auto n : nums) {
+            if (check.contains(n)) {return 1;}
+            else {check.insert(n);}
         }
-        return false;
+        return 0;
     }
 };

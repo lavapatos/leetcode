@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lavapatos/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lavapatos/leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/lavapatos/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/lavapatos/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lavapatos/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3194-find-words-containing-character](https://github.com/lavapatos/leetcode/tree/master/3194-find-words-containing-character) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/lavapatos/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/lavapatos/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/lavapatos/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/lavapatos/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/lavapatos/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |

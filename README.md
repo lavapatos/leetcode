@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lavapatos/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,8 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
+| [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->

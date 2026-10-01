@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lavapatos/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/lavapatos/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0704-binary-search](https://github.com/lavapatos/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/lavapatos/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lavapatos/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lavapatos/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
 | Problem Name | Difficulty |
@@ -197,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory

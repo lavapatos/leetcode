@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/lavapatos/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lavapatos/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lavapatos/leetcode/tree/main/0169-majority-element/) | Easy |
+| [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/lavapatos/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/lavapatos/leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lavapatos/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lavapatos/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
 | Problem Name | Difficulty |
@@ -193,11 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory

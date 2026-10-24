@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/lavapatos/leetcode/tree/master/3194-find-words-containing-character) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/lavapatos/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lavapatos/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3668-restore-finishing-order](https://github.com/lavapatos/leetcode/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/lavapatos/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/lavapatos/leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
+| [3668-restore-finishing-order](https://github.com/lavapatos/leetcode/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
 |  |
 | ------- |

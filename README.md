@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lavapatos/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lavapatos/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/lavapatos/leetcode/tree/master/0058-length-of-last-word) |
@@ -16,24 +16,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/lavapatos/leetcode/tree/master/3379-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/lavapatos/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lavapatos/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/lavapatos/leetcode/tree/master/1642-water-bottles) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lavapatos/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/lavapatos/leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/lavapatos/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lavapatos/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/lavapatos/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/lavapatos/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lavapatos/leetcode/tree/master/0015-3sum) |
@@ -68,20 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3668-restore-finishing-order](https://github.com/lavapatos/leetcode/tree/master/3668-restore-finishing-order) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/lavapatos/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/lavapatos/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/lavapatos/leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/lavapatos/leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/lavapatos/leetcode/tree/master/2048-build-array-from-permutation) |
 | [3498-reverse-degree-of-a-string](https://github.com/lavapatos/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/lavapatos/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lavapatos/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lavapatos/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lavapatos/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -92,12 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lavapatos/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/lavapatos/leetcode/tree/main/0283-move-zeroes/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/lavapatos/leetcode/tree/master/0011-container-with-most-water) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/lavapatos/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lavapatos/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/lavapatos/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -105,19 +105,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lavapatos/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lavapatos/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lavapatos/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/lavapatos/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/lavapatos/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lavapatos/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/lavapatos/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -126,18 +126,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/lavapatos/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/lavapatos/leetcode/tree/master/0704-binary-search) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/lavapatos/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
 | [1441-build-an-array-with-stack-operations](https://github.com/lavapatos/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/lavapatos/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/lavapatos/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/lavapatos/leetcode/tree/main/0169-majority-element/) | Easy |
@@ -149,89 +149,89 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
 | [3668-restore-finishing-order](https://github.com/lavapatos/leetcode/tree/master/3668-restore-finishing-order) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1813-maximum-erasure-value](https://github.com/lavapatos/leetcode/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/lavapatos/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lavapatos/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/lavapatos/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lavapatos/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/lavapatos/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0190-reverse-bits](https://github.com/lavapatos/leetcode/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/lavapatos/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/lavapatos/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/lavapatos/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lavapatos/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/lavapatos/leetcode/tree/master/0278-first-bad-version) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/lavapatos/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/lavapatos/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/lavapatos/leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/lavapatos/leetcode/tree/main/0112-path-sum/) | Easy |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0112-path-sum](https://github.com/lavapatos/leetcode/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->

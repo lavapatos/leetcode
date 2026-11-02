@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0217-contains-duplicate](https://github.com/lavapatos/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/lavapatos/leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0322-coin-change](https://github.com/lavapatos/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/lavapatos/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/lavapatos/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lavapatos/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lavapatos/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/lavapatos/leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/lavapatos/leetcode/tree/master/0322-coin-change) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/lavapatos/leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Binary Search
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/lavapatos/leetcode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/lavapatos/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/lavapatos/leetcode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/lavapatos/leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/lavapatos/leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/lavapatos/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -247,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/lavapatos/leetcode/tree/main/0112-path-sum/) | Easy |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lavapatos/leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/lavapatos/leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
